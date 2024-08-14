@@ -1,0 +1,971 @@
+ îHi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equalizer in gnu radio.
+
+we have also implemented multi path system.
+
+
+Hi this is the implementation of ZF & CMA equal
